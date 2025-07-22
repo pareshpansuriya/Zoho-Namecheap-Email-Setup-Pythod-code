@@ -1,0 +1,1 @@
+The project involves working with the APIs of both Zoho Mail and Namecheap to create a seamless workflow. The script should be able to take a list of domains and desired email accounts, and then programmatically perform all the necessary steps for a complete setup.
