@@ -1,0 +1,22 @@
+{
+  "zoho": {
+    "auth_token": "your_zoho_auth_token",
+    "org_id": "your_org_id"
+  },
+  "namecheap": {
+    "api_user": "your_namecheap_user",
+    "api_key": "your_namecheap_api_key",
+    "client_ip": "your_whitelisted_ip"
+  },
+  "domains": [
+    {
+      "domain": "example.com",
+      "users": [
+        {
+          "name": "Alice",
+          "email": "alice@example.com"
+        }
+      ]
+    }
+  ]
+}
